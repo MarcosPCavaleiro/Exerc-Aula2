@@ -1,2 +1,2 @@
-# Exerc1
-Exercício 1 da aula de Aplicações para Internet
+# Exerc-Aula2
+Exercícios da aula 2 de Aplicações para Internet
